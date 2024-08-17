@@ -16,11 +16,14 @@ Listar Facturas image
 
 Crear Facturas
 
-image
+![image](https://github.com/user-attachments/assets/56b7c457-4a2e-4ef2-8fc4-ad10bc7a7306)
+
 
 Se Crea lista Clientes Facturas
-image
+![image](https://github.com/user-attachments/assets/adda27b4-160b-4669-8a8b-4b40514e1d4b)
+
 
 9)Lista base de productos
 
-image
+![image](https://github.com/user-attachments/assets/5e73c6e4-fa34-4f3f-95da-735bda4f0054)
+
