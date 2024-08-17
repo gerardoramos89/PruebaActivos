@@ -27,6 +27,4 @@ Lista de Actividades trabajadas en la prueba
 
 ![image](https://github.com/gerardoramos89/Prueba-T-cnica.NET_-WTW/assets/57040617/cfab351b-b368-4377-b1ff-65910312c30d)
 
-10) Se detectan 3 errores en consola. la imagen de los productos, el cambio del Select
 
-![image](https://github.com/gerardoramos89/Prueba-T-cnica.NET_-WTW/assets/57040617/8325ee5b-029a-4868-83c5-880be952d9eb)
