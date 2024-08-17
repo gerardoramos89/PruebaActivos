@@ -25,5 +25,6 @@ Se Crea lista Clientes Facturas
 
 9)Lista base de productos
 
-![image](https://github.com/user-attachments/assets/5e73c6e4-fa34-4f3f-95da-735bda4f0054)
+![image](https://github.com/user-attachments/assets/7f2c8bcc-d14e-4ede-8d57-25f1723ca094)
+
 
