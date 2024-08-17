@@ -1,0 +1,79 @@
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.staticwebassets.runtime.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.exe
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.deps.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\MVC_ControlFacturas.pdb
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\Dapper.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.RazorAssemblyInfo.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.RazorAssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets\msbuild.MVC_ControlFacturas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_ControlFacturas.props
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_ControlFacturas.props
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_ControlFacturas.props
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\scopedcss\bundle\MVC_ControlFacturas.styles.css
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\scopedcss\projectbundle\MVC_ControlFacturas.bundle.scp.css
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.csproj.CopyComplete
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\refint\MVC_ControlFacturas.dll
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.pdb
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\MVC_ControlFacturas.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos\Prueba tecnica Gerardo\obj\Debug\net6.0\ref\MVC_ControlFacturas.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.staticwebassets.runtime.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.exe
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.deps.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.runtimeconfig.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\MVC_ControlFacturas.pdb
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\Dapper.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.RazorAssemblyInfo.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.RazorAssemblyInfo.cs
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets\msbuild.MVC_ControlFacturas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_ControlFacturas.props
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_ControlFacturas.props
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_ControlFacturas.props
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\scopedcss\bundle\MVC_ControlFacturas.styles.css
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\scopedcss\projectbundle\MVC_ControlFacturas.bundle.scp.css
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\refint\MVC_ControlFacturas.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.pdb
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.genruntimeconfig.cache
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\ref\MVC_ControlFacturas.dll
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_ControlFacturas.sourcelink.json
+C:\Users\pc\Source\Repos\gerardoramos89\Prueba-T-cnica.NET_-WTW\obj\Debug\net6.0\MVC_Cont.4A55C746.Up2Date
